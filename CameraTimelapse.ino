@@ -1,5 +1,3 @@
-// Author Teemu Mäntykallio, 2017-04-07
-
 // Define pins
 #define DIR_PIN1   13
 #define STEP_PIN1  12                               // Step on rising edge
